@@ -1,12 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C#Practicas\\Ejercicios\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Dr Pc\\Documents\\GitHub\\EjerciciosCSharp\\Ejercicios_CSHARP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DEECD1-BF0A-4D8D-8F81-6727CF6015FB}|Ej3\\Ej3.csproj|c:\\users\\dr pc\\documents\\github\\ejercicioscsharp\\ejercicios_csharp\\ej3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DEECD1-BF0A-4D8D-8F81-6727CF6015FB}|Ej3\\Ej3.csproj|solutionrelative:ej3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C33D4F-3DFA-4A6B-A57E-46B9D15AB574}|EjA\\EjA.csproj|c:\\users\\dr pc\\documents\\github\\ejercicioscsharp\\ejercicios_csharp\\eja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C33D4F-3DFA-4A6B-A57E-46B9D15AB574}|EjA\\EjA.csproj|solutionrelative:eja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D2FDA5-3870-4679-AAC9-1C2C5AAC2F9A}|Ej2\\Ej2.csproj|c:\\users\\dr pc\\documents\\github\\ejercicioscsharp\\ejercicios_csharp\\ej2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D2FDA5-3870-4679-AAC9-1C2C5AAC2F9A}|Ej2\\Ej2.csproj|solutionrelative:ej2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F716E4C-24D8-42E7-ADC8-DEAF7E0FBADC}|Ej1\\Ej1.csproj|c:\\users\\dr pc\\documents\\github\\ejercicioscsharp\\ejercicios_csharp\\ej1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F716E4C-24D8-42E7-ADC8-DEAF7E0FBADC}|Ej1\\Ej1.csproj|solutionrelative:ej1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dr Pc\\Documents\\GitHub\\EjerciciosCSharp\\Ejercicios_CSHARP\\Ej3\\Program.cs",
+              "RelativeDocumentMoniker": "Ej3\\Program.cs",
+              "ToolTip": "C:\\Users\\Dr Pc\\Documents\\GitHub\\EjerciciosCSharp\\Ejercicios_CSHARP\\Ej3\\Program.cs",
+              "RelativeToolTip": "Ej3\\Program.cs",
+              "ViewState": "AgIAABIAAADAlJmZmZkuwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:12:00.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dr Pc\\Documents\\GitHub\\EjerciciosCSharp\\Ejercicios_CSHARP\\EjA\\Program.cs",
+              "RelativeDocumentMoniker": "EjA\\Program.cs",
+              "ToolTip": "C:\\Users\\Dr Pc\\Documents\\GitHub\\EjerciciosCSharp\\Ejercicios_CSHARP\\EjA\\Program.cs",
+              "RelativeToolTip": "EjA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:05:13.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dr Pc\\Documents\\GitHub\\EjerciciosCSharp\\Ejercicios_CSHARP\\Ej2\\Program.cs",
+              "RelativeDocumentMoniker": "Ej2\\Program.cs",
+              "ToolTip": "C:\\Users\\Dr Pc\\Documents\\GitHub\\EjerciciosCSharp\\Ejercicios_CSHARP\\Ej2\\Program.cs",
+              "RelativeToolTip": "Ej2\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:04:24.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dr Pc\\Documents\\GitHub\\EjerciciosCSharp\\Ejercicios_CSHARP\\Ej1\\Program.cs",
+              "RelativeDocumentMoniker": "Ej1\\Program.cs",
+              "ToolTip": "C:\\Users\\Dr Pc\\Documents\\GitHub\\EjerciciosCSharp\\Ejercicios_CSHARP\\Ej1\\Program.cs",
+              "RelativeToolTip": "Ej1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:03:33.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
